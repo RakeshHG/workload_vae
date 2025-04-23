@@ -8,7 +8,7 @@
 
 `workload_vae` provides an end-to-end pipeline to:
 
-- ✅ Load and clean HPC workload logs in SWF (Standard Workload Format)
+- ✅ Load and clean CSV workload logs in SWF (Standard Workload Format)
 - 📊 Perform exploratory data analysis (EDA)
 - 🧠 Build and train deep VAE models for learning latent representations
 - 🧪 Generate synthetic workload data
