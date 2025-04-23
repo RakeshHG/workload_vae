@@ -113,7 +113,7 @@ To contribute:
 
 ```bash
 # Clone and install in editable mode
-git clone https://github.com/yourusername/workload_vae.git
+git clone https://github.com/RakeshHG/workload_vae.git
 cd workload_vae
 pip install -e .
 ```
