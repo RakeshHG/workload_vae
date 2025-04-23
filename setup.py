@@ -7,7 +7,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         'pandas==1.0.0',
-        'numpy==1.18.0',
+        'numpy>=1.21',
         'torch==1.6.0',
         'scikit-learn==0.22.0',
         'matplotlib==3.1.0',
