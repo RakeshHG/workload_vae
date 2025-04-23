@@ -6,12 +6,12 @@ setup(
     version='0.1.0',
     packages=find_packages(),
     install_requires=[
-        'pandas==1.0.0',
+        'pandas>=1.0.0',
         'numpy>=1.21',
-        'torch==1.6.0',
-        'scikit-learn==0.22.0',
-        'matplotlib==3.1.0',
-        'seaborn==0.10.0'
+        'torch>=1.6.0',
+        'scikit-learn>=0.22.0',
+        'matplotlib>=3.1.0',
+        'seaborn>=0.10.0'
     ],
     author='Rakesh H G',
     author_email='h077rakesh@gmail.com',
