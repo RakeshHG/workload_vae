@@ -23,7 +23,7 @@ Whether you're a researcher, engineer, or data scientist working in performance 
 You can install this library directly from GitHub using:
 
 ```bash
-pip install git+https://github.com/yourusername/workload_vae.git
+pip install git+https://github.com/RakeshHG/workload_vae.git
 ```
 
 ---
