@@ -1,6 +1,6 @@
 # 🚀 workload_vae
 
-> A modular and extensible Python library for processing and generating synthetic HPC workload data using Variational Autoencoders (VAEs) 🔬📊
+> A modular and extensible Python library for processing and generating synthetic workload data/logs of real parallel workloads from production systems using Variational Autoencoders (VAEs) 🔬📊
 
 ---
 
