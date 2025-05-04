@@ -17,7 +17,7 @@ setup(
     author_email='h077rakesh@gmail.com',
     description='A Python package for processing workload CSVs using a Variational Autoencoder (VAE)',
     long_description=open('README.md', encoding='utf-8').read(),
-    long_description_content_type='textmarkdown',
+    long_description_content_type='text/markdown',
     url='https://github.com/RakeshHG/workload_vae',
     classifiers=[
         'Programming Language  Python  3',
